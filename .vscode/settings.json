@@ -1,0 +1,25 @@
+{
+  "workbench.iconTheme": null,
+  "vim.disableAnnoyingNeovimMessage": true,
+  "files.autoSave": "afterDelay",
+"window.zoomLevel": 5,
+  "window.newWindowDimensions": "maximized",
+  "editor.fontSize": 16,
+  "window.zoomLevel": 4,
+  "terminal.integrated.fontSize": 16,
+  "workbench.editor.enablePreview": false,
+  "reason.formatOnSave": false,
+  "editor.wordWrap": "on",
+  "editor.quickSuggestions": true,
+  "editor.parameterHints": true,
+  "editor.wordBasedSuggestions": true,
+  "editor.snippetSuggestions": "none",
+  "editor.tabCompletion": true,
+  "explorer.confirmDragAndDrop": false,
+  // 控制终端保持在缓冲区的最大行数。
+  "terminal.integrated.scrollback": 10000,
+  "vim.useCtrlKeys": true,
+  "vim.handleKeys": {
+    "<C-d>": true
+  }
+}
